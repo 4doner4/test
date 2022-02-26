@@ -352,3 +352,5 @@ D:\PROJECT\visual studio\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1
 D:\PROJECT\visual studio\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
 D:\PROJECT\visual studio\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
 D:\PROJECT\visual studio\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+D:\PROJECT\visual studio\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\AboutUs.cshtml.g.cs
+D:\PROJECT\visual studio\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\DoctorList.cshtml.g.cs
